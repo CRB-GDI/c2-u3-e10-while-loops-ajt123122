@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: exersie 10, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>exersie 10 -> C:\Users\Aiden.Tasso\Documents\GitHub\c2-u3-e09-nested-for-loops-ajt123122\exersie 10\exersie 10\bin\Debug\net6.0\exersie 10.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Elapsed 00:00.257 ==========
